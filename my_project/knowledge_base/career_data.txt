@@ -1,0 +1,193 @@
+CAREER: Data Analyst
+
+ROLE:
+A Data Analyst collects, cleans, analyzes, and visualizes data to help organizations make better decisions.
+
+REQUIRED SKILLS:
+Python
+SQL
+Excel
+Power BI
+Data Analytics
+Statistics
+
+LEARNING ROADMAP:
+1. Learn Python basics and data handling.
+2. Learn SQL queries, filtering, joins, grouping, and aggregation.
+3. Learn Excel for data cleaning and analysis.
+4. Learn Power BI for dashboards and visualization.
+5. Learn statistics and exploratory data analysis.
+6. Build data analytics projects using real datasets.
+7. Create a GitHub portfolio and prepare for internships.
+
+BEGINNER PROJECTS:
+Sales Dashboard
+Customer Churn Analysis
+E-Commerce Analytics
+Student Performance Analysis
+
+CAREER: AI/ML Engineer
+
+ROLE:
+An AI/ML Engineer develops machine learning and artificial intelligence solutions using data, algorithms, and programming.
+
+REQUIRED SKILLS:
+Python
+Machine Learning
+Statistics
+SQL
+Git & GitHub
+Deep Learning
+
+LEARNING ROADMAP:
+1. Learn Python programming.
+2. Learn NumPy and pandas.
+3. Learn statistics and mathematics for machine learning.
+4. Learn machine learning algorithms.
+5. Learn model evaluation and feature engineering.
+6. Learn deep learning fundamentals.
+7. Build machine learning projects and maintain a GitHub portfolio.
+
+BEGINNER PROJECTS:
+Student Score Prediction
+House Price Prediction
+Customer Churn Prediction
+Spam Detection
+
+CAREER: Software Developer
+
+ROLE:
+A Software Developer designs, develops, tests, and maintains software applications.
+
+REQUIRED SKILLS:
+Python
+Java
+Data Structures
+SQL
+Git & GitHub
+Problem Solving
+
+LEARNING ROADMAP:
+1. Learn programming fundamentals.
+2. Practice data structures and algorithms.
+3. Learn object-oriented programming.
+4. Learn SQL and databases.
+5. Learn Git and GitHub.
+6. Build software projects.
+7. Practice coding and technical interviews.
+
+BEGINNER PROJECTS:
+Student Management System
+Library Management System
+College Hostel Management System
+To-Do Application
+
+CAREER: Web Developer
+
+ROLE:
+A Web Developer creates and maintains websites and web applications.
+
+REQUIRED SKILLS:
+HTML
+CSS
+JavaScript
+Git & GitHub
+SQL
+
+LEARNING ROADMAP:
+1. Learn HTML.
+2. Learn CSS.
+3. Learn JavaScript.
+4. Learn responsive web design.
+5. Learn Git and GitHub.
+6. Learn basic backend and databases.
+7. Build and deploy web projects.
+
+BEGINNER PROJECTS:
+Portfolio Website
+College Website
+To-Do Web Application
+Student Registration System
+
+CAREER: Cloud Engineer
+
+ROLE:
+A Cloud Engineer works with cloud infrastructure, deployment, storage, networking, and cloud services.
+
+REQUIRED SKILLS:
+Python
+Cloud Computing
+Linux
+Networking
+Git & GitHub
+SQL
+
+LEARNING ROADMAP:
+1. Learn cloud computing fundamentals.
+2. Learn Linux basics.
+3. Learn networking fundamentals.
+4. Learn a cloud platform.
+5. Learn cloud storage and compute services.
+6. Practice deployment.
+7. Build cloud-based projects.
+
+BEGINNER PROJECTS:
+Cloud File Storage System
+Cloud-Based Student Portal
+Simple Web Application Deployment
+
+CAREER: Cybersecurity Analyst
+
+ROLE:
+A Cybersecurity Analyst helps protect systems, networks, and data from security threats.
+
+REQUIRED SKILLS:
+Python
+Networking
+Linux
+Cybersecurity Fundamentals
+SQL
+Git & GitHub
+
+LEARNING ROADMAP:
+1. Learn computer networking.
+2. Learn Linux fundamentals.
+3. Learn cybersecurity concepts.
+4. Learn common security threats.
+5. Learn basic security tools and practices.
+6. Practice using safe cybersecurity labs.
+7. Build security-related projects.
+
+BEGINNER PROJECTS:
+Password Strength Checker
+Secure Login System
+Network Monitoring Dashboard
+Phishing Awareness Application
+
+CAREER: Data Scientist
+
+ROLE:
+A Data Scientist uses statistics, programming, machine learning, and data analysis to discover patterns and create predictive solutions.
+
+REQUIRED SKILLS:
+Python
+SQL
+Statistics
+Machine Learning
+Data Analytics
+Data Visualization
+
+LEARNING ROADMAP:
+1. Learn Python.
+2. Learn pandas and NumPy.
+3. Learn SQL.
+4. Learn statistics.
+5. Learn data visualization.
+6. Learn machine learning.
+7. Build end-to-end data science projects.
+
+BEGINNER PROJECTS:
+House Price Prediction
+Customer Churn Prediction
+Sales Forecasting
+Student Performance Prediction
